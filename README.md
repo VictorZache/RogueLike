@@ -9,12 +9,23 @@ RogueGame é um jogo desenvolvido utilizando a biblioteca Pgzero, ideal para que
 
 ## Descrição
 
-RogueGame é um jogo baseado em turnos, onde o jogador deve explorar masmorras e enfrentar inimigos. O objetivo é sobreviver o máximo possível enquanto coleta itens e melhora seu personagem.
+RogueGameLike é um projeto, onde o jogador deve enfrentar inimigos. O objetivo é sobreviver o máximo possível ou até eliminar todos os inimigos.
 
 ## Tecnologias Usadas
 
 - **Pgzero**: Biblioteca de criação de jogos 2D para Python.
 - **Python**: Linguagem utilizada para o desenvolvimento do jogo.
+
+## Controles do Jogo
+
+- **WASD** ou **Setas direcionais**: Para mover o personagem.
+  - **W** ou seta para cima: Mover para cima.
+  - **A** ou seta para a esquerda: Mover para a esquerda.
+  - **S** ou seta para baixo: Mover para baixo.
+  - **D** ou seta para a direita: Mover para a direita.
+
+- **Espaço**: Para atacar.
+- **M**: Para parar a música.
 
 ## Como Jogar
 
