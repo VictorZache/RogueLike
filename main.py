@@ -19,7 +19,7 @@ attack_timer = 0
 
 enemies = []
 enemy_spawn_timer = 0
-enemy_spawn_interval = 3
+enemy_spawn_interval = 10
 score = 0
 
 victory_message_timer = 0
