@@ -2,10 +2,10 @@
 
 RogueGame é um jogo desenvolvido utilizando a biblioteca Pgzero, ideal para quem está começando a aprender programação de jogos em Python.
 
-<div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/eefcd0ca-cd68-4d45-aa1a-6394af316b5c" width="45%" style="margin-right: 5%;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06ca7b11-b527-41a4-8dbb-abc3319e7c90" width="45%">
   <img src="https://github.com/user-attachments/assets/a9fc9051-7ac5-47ee-a718-48677ac596bf" width="45%">
-</div>
+</p>
 
 ## Descrição
 
