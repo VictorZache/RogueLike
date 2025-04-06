@@ -57,6 +57,7 @@ def draw():
             draw_victory_message()
 
 def draw_menu():
+    screen.blit("menu_bg", (0, 0))  # Fundo do menu com imagem
     screen.draw.text("Roguelike Menu", center=(WIDTH // 2, 100), fontsize=60, color="white")
     if player.health <= 0:
         screen.draw.text("Game Over", center=(WIDTH // 2, 160), fontsize=40, color="red")
